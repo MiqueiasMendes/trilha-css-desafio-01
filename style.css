@@ -1,0 +1,19 @@
+body{
+    margin: 40px;
+    font-family: cursive;
+    background-color: #03080a;
+    
+}
+#inscrever{
+    cursor: pointer;
+}
+#mulher{
+    width: 1440px;
+    height: 363px;
+}
+h1,h2,h3,p,span{
+   color: white;
+}
+a{
+    color: yellow;
+}
